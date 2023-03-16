@@ -38,15 +38,15 @@
     
     <H3>CHE/BOO</H3>
     <H4>8.10.21</H4>
-    <img src="img012.jpg" alt="Paris" class="center">
-    <img src="che.jpg" alt="Paris" class="center">
-    <img src="pamp.jpg" alt="Paris" class="center">
-    <img src="pamp.jpg" alt="Paris" class="center">
-    <img src="mcd.jpg" alt="Paris" class="center">
-    <img src="eye2.jpg" alt="Paris" class="center">
-    <img src="eye1.jpg" alt="Paris" class="center">
-    <img src="mexi.jpg" alt="Paris" class="center">
-    <img src="wheel.jpg" alt="Paris" class="center">
+    <img src="img012.jpg" alt="hands" class="center">
+    <img src="che.jpg" alt="che" class="center">
+    <img src="pamp.jpg" alt="pamp" class="center">
+    <img src="bday.jpg" alt="bday" class="center">
+    <img src="mcd.jpg" alt="mcd" class="center">
+    <img src="eye2.jpg" alt="eyemo" class="center">
+    <img src="eye1.jpg" alt="eyeko" class="center">
+    <img src="mexi.jpg" alt="mexi" class="center">
+    <img src="wheel.jpg" alt="wheel" class="center">
 </div>
 <div class="col-lg-3">
 </div>
