@@ -28,6 +28,10 @@
   padding: 15px;
   border-radius: 30px;
 }
+.center:hover{
+ width: 100%;
+}
+
     </style>
 </head>
 <body>
