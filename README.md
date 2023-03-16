@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="bootstrap.css" rel="stylesheet">
-    <title>OUR SPACE</title>
+  
     <style>
         h3{
             font-family: Helvetica;
@@ -30,7 +30,7 @@
 }
     </style>
 </head>
-<body style="background-color: rgb(43, 42, 42);">
+<body>
     <div class="row">
     <div class="col-lg-3">
     </div>
