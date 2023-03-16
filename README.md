@@ -46,7 +46,7 @@
     <img src="eye2.jpg" alt="eyemo" class="center">
     <img src="eye1.jpg" alt="eyeko" class="center">
     <img src="mexi.jpg" alt="mexi" class="center">
-    <img src="wheel.jpg" alt="wheel" class="center">
+    <img src="wheels.jpg" alt="wheel" class="center">
 </div>
 <div class="col-lg-3">
 </div>
