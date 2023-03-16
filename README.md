@@ -41,6 +41,12 @@
     <img src="img012.jpg" alt="Paris" class="center">
     <img src="che.jpg" alt="Paris" class="center">
     <img src="pamp.jpg" alt="Paris" class="center">
+    <img src="pamp.jpg" alt="Paris" class="center">
+    <img src="mcd.jpg" alt="Paris" class="center">
+    <img src="eye2.jpg" alt="Paris" class="center">
+    <img src="eye1.jpg" alt="Paris" class="center">
+    <img src="mexi.jpg" alt="Paris" class="center">
+    <img src="wheel.jpg" alt="Paris" class="center">
 </div>
 <div class="col-lg-3">
 </div>
