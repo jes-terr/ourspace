@@ -51,6 +51,10 @@
     <img src="eye1.jpg" alt="eyeko" class="center">
     <img src="mexi.jpg" alt="mexi" class="center">
     <img src="wheels.jpg" alt="wheel" class="center">
+    <img src="mirror.jpg" alt="wheel" class="center">
+    <img src="peace.jpg" alt="wheel" class="center">
+    <img src="mcdo.jpg" alt="wheel" class="center">
+    <img src="karaoke.jpg" alt="wheel" class="center">
 </div>
 <div class="col-lg-3">
 </div>
