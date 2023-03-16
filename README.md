@@ -55,6 +55,7 @@
     <img src="peace.jpg" alt="wheel" class="center">
     <img src="mcdo.jpg" alt="wheel" class="center">
     <img src="karaoke.jpg" alt="wheel" class="center">
+    <img src="queen.jpg" alt="wheel" class="center">
 </div>
 <div class="col-lg-3">
 </div>
