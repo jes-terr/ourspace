@@ -34,7 +34,7 @@
 
     </style>
 </head>
-<body>
+<body style="background-color: rgb(37, 37, 37);">
     <div class="row">
     <div class="col-lg-3">
     </div>
