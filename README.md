@@ -11,14 +11,14 @@
             font-weight: bolder;
             text-align: center;
             padding-top: 50px;
-            color: white;
+            color: black;
         }
         h4{
             font-family: 'Courier New';
             font-size: 30;    
             text-align: center;
             padding-top: 0%;
-            color: white;
+            color: black;
         }
         .center {
   display: block;
